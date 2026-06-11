@@ -3,6 +3,7 @@
 **Data Scientist & Data Engineer | Machine Learning, Pipelines Distribuídos & Web3**
 
 🎓 Licenciatura em Ciência de Dados — Universidade do Minho
+
 🎓 Mestrado em Engenharia e Ciência de Dados — Universidade do Minho  
 🔧 Atualmente a construir: **AgentWork** (marketplace de agentes AI com escrow USDC na Arc, Layer-1 da Circle)  
 💡 Interesses principais: NLP, Deep Learning, Vision AI e Modelos Preditivos.  
