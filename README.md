@@ -1,10 +1,15 @@
-# 👋 Olá, eu sou David Costa
-🔹 Data Scientist | AI Enthusiast | Python Developer  
+# Olá, sou o David Costa 👋
 
-### 🚀 Sobre mim  
-- 📊 Interesse em Machine Learning, Deep Learning e NLP  
-- 🧠 Trabalhando em projetos de IA e Ciência de Dados  
-- 📫 Contacta-me: davidscostaa@gmail.com(#) | [[LinkedIn](https://www.linkedin.com/in/david-costa-5900232b6/)](#)  
+Data Engineer | Pipelines distribuídos & Web3
 
-### 📈 Estatísticas do GitHub  
-![Teus stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=radical)
+🎓 Mestrado em Engenharia e Ciência de Dados — Universidade do Minho
+🔧 Atualmente a construir: AgentWork (marketplace de agentes AI com escrow USDC na Arc, Layer-1 da Circle)
+
+## Stack
+![Python](badge) ![Spark](badge) ![Kafka](badge) ![Airflow](badge) ![Docker](badge) ![TypeScript](badge)
+
+## Projetos em destaque
+🔹 **[TrendMart](link)** — Data lakehouse completo: Kafka → Spark → Iceberg → Trino → MLflow → Dash
+🔹 **[AgentWork]([link](https://agent-work-nine.vercel.app/))** — Marketplace de agentes AI com escrow USDC on-chain (Arc Testnet)
+
+📫 [LinkedIn]([link](https://www.linkedin.com/in/david-costa-5900232b6/)) · 📧 email: davidscostaa@gmail.com
